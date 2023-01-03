@@ -1,10 +1,11 @@
 ### Requirements
 You must have Pandas, NLTK Tools and Streamlit installed.
-
+```
 pip install streamlit
+```
+```
 pip install -U nltk  
-
-
+```
 ### Running the project
 1. Ensure that you are in the project home directory. Run the notebook : "Sentimental Analysis- Restaurant Review" first
 
