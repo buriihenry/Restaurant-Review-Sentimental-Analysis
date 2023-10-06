@@ -1,3 +1,5 @@
+ML project for restaurant review served with Streamlit
+
 ### Requirements
 You must have Pandas, NLTK Tools and Streamlit installed.
 ```
